@@ -7,7 +7,7 @@ const fn = () => {
 fn()
 
 const clickeado = () => {
-    let a = "chanchito Feliz"
+    let a = "chanchito Felizs"
 
     console.log(a)
 }
